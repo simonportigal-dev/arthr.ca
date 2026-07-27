@@ -94,6 +94,11 @@ main {
     margin-top: 1em;
 }
 
+.project-text .body-text .testimonial {
+    margin-left: 2em;
+    font-style: italic;
+}
+
 a.external {
     color: var(--red);
 }
