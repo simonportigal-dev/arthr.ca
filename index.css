@@ -123,6 +123,11 @@ a.external:hover {
     height: auto;
 }
 
+.gallery--stacked {
+    grid-template-columns: 1fr;
+    margin-top: 0;
+}
+
 .site-screenshot {
     display: block;
     width: 100%;
